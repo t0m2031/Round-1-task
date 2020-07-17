@@ -1,6 +1,7 @@
 # Round-1-task
 
 #Task 1 POS Tagging:
+Here, the approach is, POS tagging is done then only 8 POS tagged words and their frequencies are shown
 
 
 #Task 2 Topic Classification:
